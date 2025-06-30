@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Sweety (Rifika2004) — your friendly neighborhood coder 🤖✨
+# 👋 Hi, I’m Rifika Garigipati (Rifika2004) — your friendly neighborhood coder 🤖✨
 
 Welcome to my corner of GitHub! I'm a passionate and self-driven developer who's fallen in love with building tech that feels *human*.  
 Whether it's web apps, AI tools, or clever little scripts, I’m here to make software that *actually helps people*.
